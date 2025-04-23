@@ -3,6 +3,14 @@
 %hover-black  {
     &:hover{
         color: v.$color_black;
+        cursor: pointer;
+    }
+}
+
+%hover-light  {
+    &:hover{
+        cursor: pointer;
+        color: v.$color_white;
     }
 }
 
