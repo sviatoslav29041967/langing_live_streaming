@@ -96,7 +96,7 @@
         &-img {
             width: 126px;
             height: 198px;
-            @include m.position(absolute, 1, -1, top, left, -75px, -35px);
+            @include m.position(absolute, 1, -1, top, left, -75px, -45px);
         }
 
         &-content {
